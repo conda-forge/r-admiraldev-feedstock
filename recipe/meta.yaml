@@ -28,8 +28,8 @@ requirements:
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
     - r-base
-    - r-cli >=3.0.0
-    - r-dplyr >=1.0.5
+    - r-cli >=3.6.2
+    - r-dplyr >=1.1.1
     - r-glue >=1.6.0
     - r-lifecycle >=0.1.0
     - r-lubridate >=1.7.4
@@ -38,12 +38,12 @@ requirements:
     - r-roxygen2 >=7.0.0
     - r-stringr >=1.4.0
     - r-tidyr >=1.0.2
-    - r-tidyselect >=1.0.0
+    - r-tidyselect >=1.1.0
     - r-withr
   run:
     - r-base
-    - r-cli >=3.0.0
-    - r-dplyr >=1.0.5
+    - r-cli >=3.6.2
+    - r-dplyr >=1.1.1
     - r-glue >=1.6.0
     - r-lifecycle >=0.1.0
     - r-lubridate >=1.7.4
@@ -52,7 +52,7 @@ requirements:
     - r-roxygen2 >=7.0.0
     - r-stringr >=1.4.0
     - r-tidyr >=1.0.2
-    - r-tidyselect >=1.0.0
+    - r-tidyselect >=1.1.0
     - r-withr
 
 test:
