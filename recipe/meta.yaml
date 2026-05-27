@@ -1,4 +1,4 @@
-{% set version = "1.4.0" %}
+{% set version = "1.4.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/admiraldev_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/admiraldev/admiraldev_{{ version }}.tar.gz
-  sha256: ff421eb5db21d934d9a558ceed0ed23913ce70ac6cdb5fcf67a6bc090daa5f49
+  sha256: 025a0dda17b0019779a6861c04e18004d7cc0b7caf88b2a52a962586103d3e33
 
 build:
   number: 0
