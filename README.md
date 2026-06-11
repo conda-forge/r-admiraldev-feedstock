@@ -3,11 +3,13 @@ About r-admiraldev-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-admiraldev-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pharmaverse.github.io/admiraldev/, https://github.com/pharmaverse/admiraldev/
+Home: https://pharmaverse.github.io/admiraldev/
 
 Package license: Apache-2.0
 
 Summary: Utility functions to check data, variables and conditions for functions used in 'admiral' and 'admiral' extension packages. Additional utility helper functions to assist developers with maintaining documentation, testing and general upkeep of 'admiral' and 'admiral' extension packages.
+
+Development: https://github.com/pharmaverse/admiraldev/
 
 Current build status
 ====================
